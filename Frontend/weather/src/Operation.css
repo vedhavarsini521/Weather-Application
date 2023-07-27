@@ -1,0 +1,26 @@
+.operation{
+    background-image:url('./imgs/fbc5.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+.operat{
+    padding-top: 50px;
+    
+}
+.operat form{
+    background-color: rgba(103, 103, 103,0.2);
+}
+
+.op1{
+    margin-left: 400px;
+    padding-left: 100px;
+    border: 1px solid black;
+    width:500px;
+    height:530px;
+    border-radius: 3px;
+}
+
+.o1{
+    width: 350px;
+}
+

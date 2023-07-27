@@ -1,0 +1,13 @@
+.abou{
+    background-image:  url('imgs/fbc5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;   
+    height: 100vh; 
+}
+
+.abo{
+    background-color: rgba(9, 27, 43,0.1);
+
+}
